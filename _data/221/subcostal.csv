@@ -1,0 +1,21 @@
+filename,description
+SC-CL-TRANSV-2D.mp4,"Transv of Abdomen, 2D (identify DAO & IVC) (clip)"
+SC-CL-TRANSV-CF.mp4,"Transv of Abdomen, 2D + color (clip)"
+SC-CL-IVC-2D.mp4,"LAX IVC, 2D (clip)"
+SC-CL-IVC-SNIFF-2D.mp4,"IVC, 2D demonstrating variation with sniff (clip)"
+SC-ST-IVC-MEAS.png,IVC diameter measurement (still)
+SC-CL-HEPVNS-CF.mp4,"Hepatic veins, 2D + color (clip)"
+SC-ST-HEPVNS-DOPP.png,"Hepatic veins, PW Doppler to show S, D, and A velocity waveforms (still)"
+SC-CL-ABDAO-2D.mp4,"LAX AbdAO, 2D (clip)"
+SC-CL-ABDAO-CF.mp4,"LAX AbdAO, 2D + color (clip)"
+SC-ST-ABDAO-DOPP.png,PW Doppler AbdAO (still)
+SC-CL-4C-2D.mp4,"4C, 2D (clip)"
+SC-CL-4C-CF.mp4,"4C, 2D + color atrial septum, AV valves (clip)"
+SC-CL-ZM-IAS-2D.mp4,"4C Zoom atrial septum, 2D (clip)"
+SC-CL-ZM-IAS-CF.mp4,"4C Zoom atrial septum, 2D + color SWEEP for PFO (color scale optimized for PFO) (clip)"
+SC-CL-SAX-BASE-2D.mp4,"SAX @ base, 2D (clip)"
+SC-CL-SAX-BASE-CF.mp4,"SAX @ base, 2D + color (clip)"
+SC-CL-SAX-MV-2D.mp4,"SAX MV, 2D (clip)"
+SC-CL-SAX-MV-CF.mp4,"SAX MV, 2D + color (clip)"
+SC-CL-SAX-LV-2D.mp4,"LV SAX, 2D (clip)"
+SC-CL-SAX-LV-CF.mp4,"LV SAX, 2D + color (clip)"

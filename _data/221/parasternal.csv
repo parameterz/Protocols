@@ -1,0 +1,46 @@
+filename,description
+PLX-CL-DEEP-2D.mp4,"LV increased depth, 2D (clip)"
+PLX-CL-OPT-2D.mp4,"LV optimized sector depth, 2D (clip)"
+PLX-CL-OPT-CF.mp4,LV optimized sector depth 2D + color MV/AOV (clip)
+PLX-ST-LVD-MEAS.png,"Linear measurements: RVIDd, IVSd, LVEDd, LVPWd (still)"
+PLX-ST-LVS-MEAS.png,Linear measurement LVIDs (still)
+PLX-ST-MM-AO.png,M-mode AOV & LA (still)
+PLX-ST-MM-MV.png,M-mode MV (still)
+PLX-ST-MM-LV.png,M-mode LV (still)
+PLX-CL-ZM-MV-2D.mp4,"Zoomed MV, 2D (be sure to include LVOT as landmark) (clip)"
+PLX-CL-ZM-MV-CF.mp4,"Zoomed MV, 2D + color (clip)"
+PLX-CL-ZM-LVOT-2D.mp4,"Zoomed LVOT/AV, 2D (clip)"
+PLX-ST-LVOT-MEAS.png,Linear measurement zoomed LVOT & AOV Annulus diameter (mid-systole) (still)
+PLX-CL-ZM-LVOT-CF.mp4,"Zoomed LVOT/AV, 2D + color (clip)"
+PLX-CL-ZM-ROOT-2D.mp4,"Zoomed SOV/STJ /AscAo, 2D (clip)"
+PLX-ST-ROOT-MEAS.png,Linear measurement SOV & STJ diameter (end-diastole) (still)
+PLX-CL-ZM-ROOT-CF.mp4,"Zoomed SOV/STJ /AscAo, 2D + color (clip)"
+PLX-CL-AAO-2D.mp4,"Focused or Zoom Asc Ao, 2D (clip)"
+PLX-ST-AAO-MEAS.png,Linear measurement Asc Ao diameter (end-diastole) (still)
+PLX-CL-RARV-2D.mp4,"RV inflow, 2D (show TV POSTERIOR leaflet) (clip)"
+PLX-CL-RARV-CF.mp4,"RV inflow, 2D + color (clip)"
+PLX-ST-RARV-DOPP.png,"RV inflow (if TR present, measure CW Doppler peak velocity) (still)"
+PLX-CL-SUBPUL-2D.mp4,"RVOT/Sub Pulmonic, 2D (clip)"
+PLX-CL-SUBPUL-CF.mp4,"RVOT/Sub Pulmonic, 2D + color (clip)"
+PLX-ST-SUBPUL-DOPP.png,PA CW Doppler (measure PR @ end-diastole if present) (still)
+PSX-CL-BASE-2D.mp4,"PSAX at BASE: Large-sector view, 2D (clip)"
+PSX-CL-BASE-CF.mp4,"PSAX at BASE: Large-sector view, 2D + color (clip)"
+PSX-ST-BASE-MEAS.png,"RVOT, linear measurement proximal RVOT (end-diastole) (still)"
+PSX-CL-TV-2D.mp4,"Narrow-sector or Zoom TV, right atrium, RV inflow, 2D (clip)"
+PSX-CL-TV-CF.mp4,"Narrow-sector or Zoom right atrium, TV, RV inflow, 2D + color (clip)"
+PSX-ST-TV-DOPP.png,"Narrow-sector or Zoom right atrium, TV, if TR present measure CW Doppler peak velocity (still)"
+PSX-CL-ZM-AOV-2D.mp4,"AoV zoomed view showing valve leaflets, 2D (clip)"
+PSX-CL-ZM-AOV-CF.mp4,"AoV zoomed view, 2D + color (clip)"
+PSX-CL-PAS-2D.mp4,"Great vessels (superior to AoV, focused on PV, PA, and branches), 2D (clip)"
+PSX-CL-ZM-PAS-2D.mp4,"Great Vessels, Narrow sector or Zoom RVOT, PV, PA, 2D (clip)"
+PSX-ST-PAS-MEAS.png,"Distal RVOT & Main PA, linear measurements (end-diastole) (still)"
+PSX-CL-ZM-PAS-CF.mp4,"Great Vessels, Narrow sector or Zoom RVOT, PV, PA, 2D + Color (clip)"
+PSX-ST-RVOT-DOPP.png,"RVOT, PW Doppler measure VTI (still)"
+PSX-ST-PA-DOPP.png,PA CW Doppler measure VTI (measure PR @ end-diastole if present) (still)
+PSX-CL-MV-2D.mp4,"MV leaflet level, 2D (clip)"
+PSX-CL-MV-CF.mp4,"MV leaflet level, 2D + color (clip)"
+PSX-CL-PAPS-2D.mp4,"LV mid papillary muscle level, 2D (clip)"
+PSX-CL-PAPS-CF.mp4,"LV mid papillary muscle level, 2D + color (clip)"
+PSX-CL-APEX-2D.mp4,"LV apex level, 2D (clip)"
+PSX-CL-APEX-CF.mp4,"LV apex level, 2D + color (clip)"
+PSX-CL-SWEEP-CF.mp4,"VSD sweep from base to LV apex, 2D + color (clip)"
