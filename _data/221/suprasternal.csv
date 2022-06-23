@@ -1,11 +1,11 @@
-filename,description
-SSN-CL-ARCH-2D.mp4,"Aortic arch, wide sector, 2D (clip)"
-SSN-CL-ARCH-CF.mp4,"Narrow-sector or Zoom AAO, 2D + color  (clip)"
-SSN-ST-AAO-PW-DOPP.png,PW Doppler Asc Ao peak velocity (still)
-SSN-ST-AAO-CW-DOPP.png,CW Doppler Asc Ao peak velocity (still)
-SSN-CL-ZM-DAO-CF.mp4,"Aortic arch narrow-sector or Zoom transverse arch and Desc Ao, 2D + color (clip)"
-SSN-ST-DAO-PW-DOPP.png,Aortic arch DAO PW Doppler (still)
-SSN-ST-DAO-CW-DOPP.png,Aortic arch DAO CW Doppler (still)
-SSN-ST-AAO-PEDOF.png,Pedoff AOV/AAO (REQUIRED for pts evaluated for AS) (still)
-RSB-ST-AAO-PEDOF.png,Pedoff AOV/AAO (REQUIRED for pts evaluated for AS) (still)
-APICAL-ST-AOV-PEDOF.png,Pedoff AOV/AAO (REQUIRED for pts evaluated for AS) (still)
+filename,filetype,description
+SSN-CL-ARCH-2D.mp4,movie,"Aortic arch, wide sector, 2D (clip)"
+SSN-CL-ARCH-CF.mp4,movie,"Narrow-sector or Zoom AAO, 2D + color  (clip)"
+SSN-ST-AAO-PW-DOPP.png,img,PW Doppler Asc Ao peak velocity (still)
+SSN-ST-AAO-CW-DOPP.png,img,CW Doppler Asc Ao peak velocity (still)
+SSN-CL-ZM-DAO-CF.mp4,movie,"Aortic arch narrow-sector or Zoom transverse arch and Desc Ao, 2D + color (clip)"
+SSN-ST-DAO-PW-DOPP.png,img,Aortic arch DAO PW Doppler (still)
+SSN-ST-DAO-CW-DOPP.png,img,Aortic arch DAO CW Doppler (still)
+SSN-ST-AAO-PEDOF.png,img,Pedoff AOV/AAO (REQUIRED for pts evaluated for AS) (still)
+RSB-ST-AAO-PEDOF.png,img,Pedoff AOV/AAO (REQUIRED for pts evaluated for AS) (still)
+APICAL-ST-AOV-PEDOF.png,img,Pedoff AOV/AAO (REQUIRED for pts evaluated for AS) (still)
