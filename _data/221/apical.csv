@@ -6,7 +6,7 @@ A4C-CL-ZM-LA-2D.mp4,movie,"Zoom LA, 2D include MV & Pulm Veins (clip)"
 A4C-ST-ZM-LA-MEAS.png,img,"Zoom LA volume (trace left atrium at end-systole, measure long-axis length) (still)"
 A4C-CL-ZM-AL-CF.mp4,movie,"Zoom LA, 2D + color optimized for Pulm Veins (clip)"
 A4C-ST-PVN-DOPP.png,img,"Zoom LA: Pulm Vein PW Doppler (show S, D, and A velocity waveforms) (still)"
-A4C-CL-ZM-MV-2D.mp4,movie,"Zoom LA MV, 2D + color optimized for MV flow (clip)"
+A4C-CL-ZM-MV-CF.mp4,movie,"Zoom LA MV, 2D + color optimized for MV flow (clip)"
 A4C-ST-MV-PW-DOPP.png,img,"Zoom LA: MV inflow, PW Doppler @ leaflet tips (measure E, E decel time, A) (still)"
 A4C-ST-MV-CW-DOPP.png,img,"Zoom LA: MV inflow, CW Doppler (trace for VTI & mean gradient) (still)"
 A4C-ST-MV-MR-DOPP.png,img,if MR present then CW Doppler through MV (measure peak velocity and VTI) (still)
