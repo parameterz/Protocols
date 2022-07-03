@@ -60,7 +60,7 @@
                         {% for image in site.data/221.parasternal %}
                         {% if image.filetype == "movie" %}
                             <p class="text-white-50 image-item">
-                                <video controls src="assets/media/{{ image.filename }}" loop="true" autoplay="true" class="img-fluid mb-3 mb-lg-0"></video>
+                                <video controls src="assets/media/{{ image.filename }}" loop="true" autoplay="false" class="img-fluid mb-3 mb-lg-0"></video>
                             <br/>
                             {{ image.description }}
                             
@@ -86,12 +86,21 @@
                     <div class="col-lg-8">
                         <h2 class="text-white mb-4">Apical</h2>
                         {% for image in site.data/221.apical %}
-                            <p class="text-white-50">
-                                <video controls src="assets/media/{{ image.filename }}" loop="true" autoplay="true" ></video>
-                            <br/>
-                            {{ image.description }}
-                            
-                            </p>
+                        {% if image.filetype == "movie" %}
+                        <p class="text-white-50 image-item">
+                            <video controls src="assets/media/{{ image.filename }}" loop="true" autoplay="false" class="img-fluid mb-3 mb-lg-0"></video>
+                        <br/>
+                        {{ image.description }}
+                        
+                        </p>
+                    {% else %}
+                    <p class="text-white-50">
+                        <img class="img-fluid mb-3 mb-lg-0" src="assets/media/{{ image.filename }}" >
+                    <br/>
+                    {{ image.description }}
+                    
+                    </p>                        
+                    {% endif %}
                         {% endfor %}
                         
                     </div>
